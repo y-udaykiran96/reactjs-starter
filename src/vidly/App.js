@@ -10,7 +10,7 @@ class App extends React.Component {
       <header className={styles['App-header']}>
         <img src={logo} className={styles["App-logo"]} alt="logo" />
         <p>
-          Vidly new project
+          Vidly new project.
         </p>
         <a
           className={styles["App-link"]}
