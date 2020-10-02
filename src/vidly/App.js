@@ -1,6 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
 import styles from './app.module.css';
+import logo from './logo.svg';
 
 class App extends React.Component {
   render() {
@@ -10,7 +10,7 @@ class App extends React.Component {
       <header className={styles['App-header']}>
         <img src={logo} className={styles["App-logo"]} alt="logo" />
         <p>
-          Vidly project
+          Vidly new project
         </p>
         <a
           className={styles["App-link"]}
